@@ -1,0 +1,16 @@
+
+
+@media screen and (max-width: 960px) {
+    .paypal-styling
+    {
+      width: 100vw;
+    
+      position: relative;
+    }
+    .paypal-inner-styling
+    {
+        width: 250px;
+        
+       
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "Astronauts": [
+         {    
+        "info":
+             {
+                 "id": 1,
+            "urlToImage":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI99MZJSGKvB0rIsFU9ILf2Oqg9vzPjTzpscY5s6YyZjn71gNm",
+            "scientistName": "Jared Isaacman",
+            "description":"Jared Isaacman is an American billionaire businessman, pilot, and commercial astronaut. He is the founder of Draken International, a private air force provider and Shift4 Payments, a payment processor.",
+        "studies": 
+            {   
+                "nameStudy1": "Dr Sargsyan Study",
+                "nameStudy2": "Dr Zenhausern Study",
+                "nameStudy3": "Space X Data"
+            },
+
+        "HeartRateChart":
+                {
+                    "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                },
+        "flights":
+            {   
+                "flight1":"Inspiration4",
+                "flight2": "Polaris(upcoming)"
+                
+            },
+        "quotes":
+            {   
+                "about": " Jared Isaacman is the founder and CEO of Shift4 Payments (NYSE: FOUR), the leader in integrated payment processing solutions. He started the company in 1999 from the basement of his family's house when he was only 16 years old and has built it into an industry-leading payments technology company with over 1,200 employees. Isaacman is considered one of the industrys most influential business leaders and has been featured by various media outlets and publications including Forbes, The Today Show, Fox Business News, ABC News, Bloomberg, Businessweek, Inc. Magazine, and Fast Company, among others. An accomplished jet pilot, Isaacman is rated to fly commercial and military aircraft and holds several world records including two Speed-Around-The-World flights in 2008 and 2009 that raised money and awareness for the Make-a-Wish Foundation. He has flown in over 100 airshows as part of the Black Diamond Jet Team, dedicating every performance to charitable causes. In 2011, Isaacman co-founded what would become the world's largest private air force, Draken International, to train pilots for the United States Armed Forces."
+                
+            } ,
+        "SpaceCraft":
+                {  
+                    "spaceImageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuo505Y6LiUm6T__6QBFXiKKoYN-3eKJ7SsG8mcJkIGBE4QUwG",
+                    "height":"8.1m / 26.7ft",
+                    "diamter":"4m / 13ft",
+                    "capsuleVolume": "9.3m^3 / 328ft^3",
+                    "trunkVolume": "37m^3 /1300ft^3",
+                    "launchpayloadmass":"6000kg / 13228lbs",
+                    "returnpayloadmass": "3000g / 6614lbs"
+                    
+                },
+                "flightDate": {
+
+                }
+
+            }
+    },
+
+
+        {    
+            "info":
+                 {"id": 2,
+                "urlToImage":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTiMJmUQVwBv5m97MUSLhn5qv5nsGN5usByz4-nSFDTrBV1RyU",
+                "scientistName": "Hayley Arceneaux",
+                "description":"Arceneaux was assigned to be the crew's chief medical officer. She has said she thinks she will be the first Cajun in space.[2] She is the first person to launch with a prosthesis.[1] As part of the training, she climbed Mount Rainier in Washington with the rest of the Inspiration4 crew.[10]",
+               
+    
+            "studies": 
+                {   "nameStudy1": "Dr ABC Study",
+                    "nameStudy2": "Dr XYZ Study",
+                    "nameStudy3": "Wild Ride: A Memoir of I.V. Drips and Rocket Ships"
+                },
+    
+            "HeartRateChart":
+                    {
+                        "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                    },
+            "flights":
+                {   
+                    "flight1":"Inspiration4",
+                    "flight2": "Space X Flight"
+                    
+                },
+            "quotes":
+                {   
+                    "about": " When Hayley was 10 years old, one of her knees began to ache. Her doctor thought it was just a sprain, but a few months later, tests revealed Hayley suffered from osteosarcoma, a type of bone cancer. Her family turned to St. Jude Children's Research Hospital for her treatment and care, which included chemotherapy and a limb-saving surgery. She is now finished with treatment and thriving. She obtained an undergraduate degree in Spanish in 2014, and obtained her Physician Assistant (PA) degree in 2016. She now works at St. Jude - the very place that saved her life - as a PA with leukemia and lymphoma patients."
+                    
+                } ,
+            "SpaceCraft":
+                    {  
+                        "spaceImageUrl": "https://images.prismic.io/inspiration4/b5d66b47-3c23-4ec7-a53a-d7db5c5d13d3_Hangar-desktop-2.jpg?auto=compress,format",
+                        "height":"8.1m / 26.7ft",
+                        "diamter":"4m / 13ft",
+                        "capsuleVolume": "9.3m^3 / 328ft^3",
+                        "trunkVolume": "37m^3 /1300ft^3",
+                        "launchpayloadmass":"6000kg / 13228lbs",
+                        "returnpayloadmass": "3000g / 6614lbs"
+                        
+                    },
+                    "flightDate": {
+
+                    }
+    
+                
+                }
+            },
+
+            {    
+                "info":
+                     {"id": 3,
+                    "urlToImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-7MNXZUD7hfT107-AK9lhAAF9rDR5PjW3zgOi3ZatgY_JXKb",
+                    "scientistName": "Chris Sembroski",
+                    "description":"Christopher Sembroski (born August 28, 1979) is an American data engineer, Air Force veteran, and commercial astronaut, currently living in Everett, Washington, United States. He was joined by billionaire Jared Isaacman on the Inspiration4 mission to orbit.",
+
+        
+                "studies": 
+                    {   "nameStudy1": "Dr alpha Study",
+                        "nameStudy2": "Dr beta Study",
+                        "nameStudy3": "Dr gama Study"
+                    },
+        
+                "HeartRateChart":
+                        {
+                            "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                        },
+                "flights":
+                    {   
+                        "flight1":"Inspiration4",
+                        "flight2": "Space X Flight"
+                        
+                    },
+                "quotes":
+                    {   
+                        "about": "Chris Sembroski grew up with a natural curiosity about outer space. Stargazing late at night on the roof of his high school and launching high-powered model rockets in college cemented this passion. As a U.S. Space Camp counselor, he conducted simulated space shuttle missions and supported STEM-based education designed to inspire young minds to explore these areas and find their passions. As a college student, Sembroski volunteered with ProSpace, a grassroots lobbying effort that promoted legislation in Washington, D.C., to help open space travel and allow companies like SpaceX to exist. He then served in the U.S. Air Force, maintaining a fleet of Minuteman III intercontinental ballistic missiles and deploying for service in Iraq before leaving active duty in 2007. Following his education from the Air Force, Sembroski earned a B.S. in Professional Aeronautics from Embry-Riddle Aeronautical University.     In his career, Sembroski has sought innovative, industry-disrupting methods to monitor and maintain mechanical equipment, making everything from data centers to hospitals more efficient. He now resides in Seattle, WA, and works in the aerospace industry. "
+                        
+                    } ,
+                "SpaceCraft":
+                        {  
+                            "spaceImageUrl": "https://images.prismic.io/inspiration4/b5d66b47-3c23-4ec7-a53a-d7db5c5d13d3_Hangar-desktop-2.jpg?auto=compress,format",
+                            "height":"8.1m / 26.7ft",
+                            "diamter":"4m / 13ft",
+                            "capsuleVolume": "9.3m^3 / 328ft^3",
+                            "trunkVolume": "37m^3 /1300ft^3",
+                            "launchpayloadmass":"6000kg / 13228lbs",
+                            "returnpayloadmass": "3000g / 6614lbs"
+                            
+                        },
+                        "flightDate": {
+
+                        }
+        
+                    
+                    }
+                },
+
+
+                {    
+                    "info":
+                         {"id": 4,
+                        "urlToImage":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR6gPLfPLWRslWf5lgfklvP1EsxmozFN7SRmFcsOgQirmc6GJJ",
+                        "scientistName": "Sian Proctor",
+                        "description":"Sian Hayley - Proctor (born March 28, 1970) is an American geology professor, science communicator, and commercial astronaut. She was launched into Earth orbit, on September 15, 2021, as the pilot of the Crew Dragon space capsule. This mission was the Inspiration4 private orbital spaceflight.",
+
+                    "studies": 
+                        {   "nameStudy1": "Dr 1 Study",
+                            "nameStudy2": "Dr 2 Study",
+                            "nameStudy3": "Dr 3 Study"
+                        },
+            
+                    "HeartRateChart":
+                            {
+                                "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                            },
+                    "flights":
+                        {   
+                            "flight1":"Inspiration4",
+                            "flight2": "Space X Flight"
+                            
+                        },
+                    "quotes":
+                        {   
+                            "about": "Dr. Sian Proctor is a geoscientist, explorer, and science communication specialist with a lifelong passion for space exploration. She was born in Guam while her father was working at the NASA tracking station during the Apollo missions and has carried on his dedication and interest in space. She's an analog astronaut (a person who conducts activities in simulated space conditions) and has completed four analog missions, including the all-female Sensoria Mars 2020 mission at the Hawai'i Space Exploration Analog and Simulation (HI-SEAS) Habitat as well as the NASA-funded four-month Mars mission at HI-SEAS to investigate food strategies for long-duration spaceflights. Her motto is “Space2inspire,” and she encourages people to use their unique one-of-a-kind strengths and passion to inspire others. She uses her Space2inpsire Art to encourage conversations about creating a J.E.D.I. Space: a Just, Equitable, Diverse, and Inclusive space for all of humanity. Dr. Proctor was recently selected as an Explorer's Club 50: Fifty People Changing the World. She has a TEDx talk called Eat Like a Martian and published the Meals for Mars Cookbook. Dr. Proctor was a finalist for the 2009 NASA Astronaut Program. She has her pilot license, is SCUBA certified, and loves geoexploring our world. She has been a geoscience professor for over 20 years at South Mountain Community College in Phoenix, Arizona and is currently on reassignment as the Open Educational Resource Coordinator for the Maricopa Community College District. She has a B.S. in Environmental Science, an M.S. in Geology, and a Ph.D. in Curriculum and Instruction: Science Education. "
+                            
+                        } ,
+                    "SpaceCraft":
+                            {  
+                                "spaceImageUrl": "https://images.prismic.io/inspiration4/b5d66b47-3c23-4ec7-a53a-d7db5c5d13d3_Hangar-desktop-2.jpg?auto=compress,format",
+                                "height":"8.1m / 26.7ft",
+                                "diamter":"4m / 13ft",
+                                "capsuleVolume": "9.3m^3 / 328ft^3",
+                                "trunkVolume": "37m^3 /1300ft^3",
+                                "launchpayloadmass":"6000kg / 13228lbs",
+                                "returnpayloadmass": "3000g / 6614lbs"
+                                
+                            },
+                            "flightDate": {
+
+                            }
+            
+                         }
+            
+                    } 
+
+
+    ]
+
+
+}

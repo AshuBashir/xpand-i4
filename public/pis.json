@@ -1,0 +1,160 @@
+{
+    "status": true,
+    "Pis": [
+         {    
+        "info":
+             {"id": 1,
+            "urlToImage":"https://www.austinmacauley.com/us/sites/default/files/styles/authors_cut/public/dr._kathy-m._basnar_author.jpg",
+            "scientistName": "Dr Basnar",
+            "description":"Dr. Basnar is A physician scientist at KBR GS supporting various aspects of human space flight, including medical imaging and space physiology. ",
+       "DataDictionary": {
+                    "axisradius": "This element provides the value of the semi major axis of the ellipsoide that defines the approximate shape of a target body.",
+                    "abstractdesc":" It contains the abstract for the product or data set information object in which it appears.",
+                    "DataSetPDS3":  "It contains the abstract for the product or data set information",
+                    "Service": " It contains the abstract for the product.",
+                    "accumulationcount": "idenetifies the number of measurement",
+                    "acknowledgementtext": "is a character string which recognizes another's contribution."
+                },
+
+            "About":
+            {   
+                 "thoughts":"He contributed in resolving the problem for Astronauts.Back pain is one of the most common conditions of astronauts during spaceflight and is hypothesized to be attributed to pathologic anatomic changes. Ultrasound (US) represents the only available imaging modality on the International Space Station, but a formal US protocol for imaging the structures of the spinal column does not exist. This investigation developed a method of acquiring diagnostic-quality images of the anterior lumbar and cervical regions of the spine during long-duration spaceflight."
+                
+            },
+            "Insights":
+            {   
+                "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                
+            } ,
+        "Research":
+                {  
+                   "reseachOn": "American Time Use Survey: Sleep Time And Its Relationship Wuth Walking Activities",
+                    "date": "jsep 2007"
+                    
+                    
+                }
+            
+            }
+        },
+
+
+
+        {    
+            "info":
+                 {"id": 2,
+                "urlToImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6brnIvu50knn18ttDnE_TfUTW3CD0sTo_-uiXXBf4iAieDs3ueQE4Xsf1A9aqb8AWykM&usqp=CAU",
+                "scientistName": "Dr Ashot Sargsyan",
+               "description":"Dr. Sargsyan is A physician scientist at KBR GS supporting various aspects of human space flight, including medical imaging and space physiology. " ,
+    
+               "DataDictionary": {
+                "axisradius": "This element provides the value of the semi major axis of the ellipsoide that defines the approximate shape of a target body.",
+                "abstractdesc":" It contains the abstract for the product or data set information object in which it appears.",
+                "DataSetPDS3":  "It contains the abstract for the product or data set information",
+                "Service": " It contains the abstract for the product.",
+                "accumulationcount": "idenetifies the number of measurement",
+                "acknowledgementtext": "is a character string which recognizes another's contribution."
+            },
+            "About":
+                {   
+                     "thoughts":"He contributed in resolving the problem for Astronauts.Back pain is one of the most common conditions of astronauts during spaceflight and is hypothesized to be attributed to pathologic anatomic changes. Ultrasound (US) represents the only available imaging modality on the International Space Station, but a formal US protocol for imaging the structures of the spinal column does not exist. This investigation developed a method of acquiring diagnostic-quality images of the anterior lumbar and cervical regions of the spine during long-duration spaceflight."
+                    
+                },
+            "Insights":
+                {   
+                    "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                    
+                } ,
+            "Research":
+                    {  
+                       "reseachOn": "Diagnostic Imaging in Space Medicine",
+                        "date": "jan 2019"
+                        
+                        
+                    }
+    
+                 }
+    
+            },
+
+            {    
+                "info":
+                     {"id": 3,
+                        "urlToImage":"https://phoenixmed.arizona.edu/sites/default/files/centers/anbm/zenhausern-bio.jpg",
+                        "scientistName": "Dr Zenhausern",
+                        "description":"Dr. Zenhausern is A physician scientist at KBR GS supporting various aspects of human space flight, including medical imaging and space physiology. " ,
+            
+                "DataDictionary": {
+                            "axisradius": "This element provides the value of the semi major axis of the ellipsoide that defines the approximate shape of a target body.",
+                            "abstractdesc":" It contains the abstract for the product or data set information object in which it appears.",
+                            "DataSetPDS3":  "It contains the abstract for the product or data set information",
+                            "Service": " It contains the abstract for the product.",
+                            "accumulationcount": "idenetifies the number of measurement",
+                            "acknowledgementtext": "is a character string which recognizes another's contribution."
+                        },
+        
+                            
+                    "About":
+                        {   
+                             "thoughts":"Dr. Zenhausern is the interim co-chair of the Department of Basic Medical Sciences and director of the Center for Applied NanoBioscience and Medicine (ANBM) at The University of Arizona College of Medicine, Phoenix."
+                            
+                        },
+                    "Insights":
+                        {   
+                            "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                            
+                        } ,
+                    "Research":
+                            {  
+                               "reseachOn": "Research Symposium Examines Health and Disease over the Lifespan ",
+                                "date": "march 2022"
+                                
+                                
+                            }
+                    
+                        }
+
+                },
+
+
+                {    
+                    "info":
+                         {"id": 4,
+                            "urlToImage":"https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg",
+                            "scientistName": "Elon Musk",
+                            "description":"Elon Musk, (born June 28, 1971, Pretoria, South Africa), South African-born American entrepreneur who cofounded the electronic-payment firm PayPal and formed SpaceX, maker of launch vehicles and spacecraft." ,
+                
+                
+                          "DataDictionary": {
+                            "axisradius": "This element provides the value of the semi major axis of the ellipsoide that defines the approximate shape of a target body.",
+                            "abstractdesc":" It contains the abstract for the product or data set information object in which it appears.",
+                            "DataSetPDS3":  "It contains the abstract for the product or data set information",
+                            "Service": " It contains the abstract for the product.",
+                            "accumulationcount": "idenetifies the number of measurement",
+                            "acknowledgementtext": "is a character string which recognizes another's contribution."
+                        },
+                        "About":
+                            {   
+                                 "thoughts":"SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft. The company was founded in 2002 by Elon Musk to revolutionize space transportation, with the ultimate goal of making life multiplanetary."
+                                
+                            },
+                        "Insights":
+                            {   
+                                "urlToImage2":"https://www.idashboards.com/wp-content/uploads/2017/10/line-graph.png"
+                                
+                            } ,
+                        "Research":
+                                {  
+                                   "reseachOn": "making commercial spaceflight a reality",
+                                    "date": "2013"
+                                    
+                                    
+                                }
+                        
+                            }
+                    } 
+
+
+    ]
+
+
+}

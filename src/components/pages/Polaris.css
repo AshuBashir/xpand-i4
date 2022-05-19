@@ -1,0 +1,14 @@
+.research-container {
+  height: 88.2vh; 
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;  
+  background-image: url(../images/polaris.webp);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: center;
+ color: white;
+ font-size: small;
+ padding: 1rem;
+}
+.research-container h1 {
+ margin-bottom: 1rem;
+}

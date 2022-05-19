@@ -1,0 +1,108 @@
+.detailcontainer{
+    background-image: url('../../images/alea-film-EUmGE331NSs-unsplash.jpg');
+   display:grid;
+   grid-template-columns:repeat(2, auto);
+   color:white; 
+   min-height:91vh
+}
+
+.email__icon:hover {
+    background-color: black;
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out;
+}
+.left-section {
+    box-shadow: "white 0px 0px 0px 2px, white 0px 4px 6px -1px, white 0px 1px 0px inset";
+    background-color:rgba(0, 0, 0, 0.5);
+     margin:1rem;
+     width:20rem;
+     /* height:80vh; */
+     height: 90vh;
+}
+.right__section {
+    margin:1rem; padding:1rem
+}
+.description {
+   padding:1rem; width:870px
+}
+.space_craft_details {
+display:flex ;
+gap:1rem; 
+padding:2px;
+box-shadow: black 0px 4px 10px
+}
+
+@media screen and (max-width: 960px) {
+    .detailcontainer {
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+    .left-section{
+        /* height:60vh; */
+        height: 65vh;
+        width: 20rem;
+
+    }
+    .email__icon {
+        /* margin-top: -3rem; */
+        margin-top: -0.5%;
+        
+
+    }
+    .description {
+     padding:0.3rem 0rem;
+     margin-bottom: 1rem;
+     width: 100%;
+    }
+    .spacecraft__image {
+        display: none;
+    }
+    .right__section{
+        margin-top:-1rem;
+    }
+    
+}
+
+@media screen and (max-width: 960px) {
+  .left-section{
+      height: 50vh;
+      width: 20rem;
+  }
+}
+
+@media screen and (max-width: 290px) {
+    .left-section{
+        height: 100vh;
+        width: 20rem;
+    }
+    .heart-styling{
+        width: 80%;
+    
+    }
+  }
+
+  @media screen and (max-width: 540px) {
+    .left-section{
+        height: 65vh;
+        width: 20rem;
+    }
+  }
+
+
+  @media screen and (max-width: 1024px) {
+    body{
+        background-size: cover;
+        height: 120vh;
+    }
+
+    .heart-styling{
+        width: 60vw;
+    
+    }
+
+    .description{
+        width: 60vw;
+    }
+
+}
